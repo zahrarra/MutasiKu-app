@@ -1,17 +1,19 @@
-# aplikasi_pertama
+# MutasiKu
 
-A new Flutter project.
+Aplikasi mobile internal untuk mengelola proses **mutasi aset** secara terstruktur — mulai dari pengajuan, pemeriksaan kelengkapan, verifikasi, persetujuan, hingga konfirmasi dan pembaruan data aset.
 
-## Getting Started
+**Platform:** Flutter (Android & iOS)  
+**Versi:** MVP 1.1  
+**Status:** Dalam pengembangan  
+**Repository:** https://github.com/zahrarra/MutasiKu-app
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Latar Belakang
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Aset seperti laptop, PC, printer, dan furniture sering berpindah mengikuti perpindahan pegawai. Jika pencatatan dilakukan manual, lokasi dan penanggung jawab aset mudah tidak sesuai dengan kondisi aktual.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+MutasiKu menyediakan alur resmi:
+
+```text
+Pengajuan → Pemeriksaan Operator → Verifikasi Bagian Aset → Approval Pemimpin → Konfirmasi Pemohon → Pembaruan Data Aset
